@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/mserdarakbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mserdarakbas" height="30" width="40" /></a>
 
 
-[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://https://discord.com/)
+[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.com/channels/@serdarAkba%C5%9F#3945)
 
   ### Technologies:
   
