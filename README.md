@@ -11,7 +11,7 @@
 
   ### Technologies:
   
-  SAP (ABAP,SD,MM)
+  SAP (ABAP,SD,MM,PP,EWM,TM)
   KOTLİN  
   JAVA  
   PYHTON  
